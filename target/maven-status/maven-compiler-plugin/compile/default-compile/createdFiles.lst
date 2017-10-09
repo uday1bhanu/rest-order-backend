@@ -1,0 +1,10 @@
+com/uday/order/rest/resource/OrderResourceAssembler.class
+com/uday/order/rest/repository/IdGenerator.class
+com/uday/order/rest/resource/ResourceAssembler.class
+com/uday/order/rest/App.class
+com/uday/order/rest/repository/InMemoryRepository.class
+com/uday/order/rest/domain/Identifiable.class
+com/uday/order/rest/domain/Order.class
+com/uday/order/rest/resource/OrderResource.class
+com/uday/order/rest/repository/OrderRepository.class
+com/uday/order/rest/controller/OrderController.class
